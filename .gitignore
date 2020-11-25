@@ -1,0 +1,9 @@
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+
+# ipynb checkpoints
+.ipynb_checkpoints
+
