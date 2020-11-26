@@ -15,9 +15,9 @@ The aim of this project is to determine the emotion that is associated with a gi
 
 The plan of the analysis was to examine the accuracy results using the following vectorizers and to determine which produces the best accuracy:
 
-* CountVectorizer [Emotions Prediction - CountVect.ipynb](Emotions Prediction - CountVect.ipynb)
-* Term Frequency (TF) vectorizer (```TfidfVectorizer(use_idf=False)```) [Emotions Prediction - Tf.ipynb](Emotions Prediction - Tf.ipynb)
-* TfidfVectorizer [Emotions Prediction - Tfidf.ipynb](Emotions Prediction - Tfidf.ipynb)
+* CountVectorizer: [Emotions Prediction - CountVect.ipynb](Emotions%20Prediction%20-%20CountVect.ipynb)
+* Term Frequency (TF) vectorizer (```TfidfVectorizer(use_idf=False)```): [Emotions Prediction - Tf.ipynb](Emotions%20Prediction%20-%20Tf.ipynb)
+* TfidfVectorizer: [Emotions Prediction - Tfidf.ipynb]("Emotions%20Prediction%20-%20Tfidf.ipynb")
 
 ## Results
 
